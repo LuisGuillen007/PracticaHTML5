@@ -54,3 +54,15 @@ header{
   visibility: visible
   opacity: 1;
 }
+
+#imagenPrincipal{
+  padding-left: 375px;
+  width: 175px;
+  height: 250px;
+}
+
+#nombre{
+  padding-left: 700px;
+}
+
+
