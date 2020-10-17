@@ -84,7 +84,7 @@ header{
 	font-size: 30px;
 	color: white;
 	background-color: #315EB5;
-	border.radius: 10px;
+	border-radius: 10px;
 	border: 2px;
 }
 
@@ -104,7 +104,7 @@ header{
         font-size: 30px;
         color: white;
         background-color: #315EB5;
-        border.radius: 10px;
+        border-radius: 10px;
         border: 2px;
 }
 
@@ -117,7 +117,7 @@ header{
 .homeimg:hover{
 
 	color: black;
-        background-color: white;
+        background-color: #DEE3EC;
         text-decoration: none;
 
 }
