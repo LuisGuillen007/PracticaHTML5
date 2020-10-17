@@ -76,19 +76,18 @@ header{
 
 .boton{
     text-decoration: none;
-    padding: 40px;
-    font-family: arial;
+    padding: 30px;
+    font-family: times new roman;
     text-transform: uppercase;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-weight: 800;
-    font-size: 25px;
-    color: black;
-    background-color: #9b0e0e;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: #315EB5;
   }
 
 .boton:hover{
-    color: #9b0e0e;
-    background-color: #bc6355;
+    color: #315EB5;
+    background-color: #B0C4DE;
     text-decoration: none;
 }
