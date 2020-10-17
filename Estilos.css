@@ -75,23 +75,20 @@ header{
 }
 
 .boton{
+    text-decoration: none;
+    padding: 40px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 800;
+    font-size: 25px;
+    color: black;
+    background-color: #9b0e0e;
+  }
 
-	border: 2px solid black;
-	padding: 15px;
-	padding-left: 30px;
-	padding-right: 30px;
-	background-color: #315EB5;
-	color: whithe;
-	font-family: times new roman;
-	font-size: 30px;
-	border-radius: 10px;
-
+.boton:hover{
+    color: #9b0e0e;
+    background-color: #bc6355;
+    text-decoration: none;
 }
-
-.boton: hover{
-	color: #315EB5;
-	background-color: #B0C4DE;
-
-}
-
-
