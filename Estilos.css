@@ -116,6 +116,7 @@ header{
 
 .homeimg:hover{
 
+	border-radius: 15px;
 	color: black;
         background-color: #DEE3EC;
         text-decoration: none;
