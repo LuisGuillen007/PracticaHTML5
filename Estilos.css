@@ -76,12 +76,15 @@ header{
 
 .boton{
 
-	border: 1px solid black;
-	padding: 20px;
+	border: 2px solid black;
+	padding: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
 	background-color: #315EB5;
 	color: whithe;
 	font-family: times new roman;
-	border-radius: 20px;
+	font-size: 30px;
+	border-radius: 10px;
 
 }
 
