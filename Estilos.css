@@ -74,5 +74,15 @@ header{
   width: 450px;
 }
 
+.boton´{
+
+	border: 1px solid black;
+	padding: 20px;
+	background-color: #315EB5;
+	color: whithe;
+	font-family: times new roman;
+	border-radius: 20px;
+
+}
 
 
