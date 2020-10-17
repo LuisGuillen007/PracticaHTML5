@@ -85,6 +85,7 @@ header{
 	color: white;
 	background-color: #315EB5;
 	border.radius: 10px;
+	border: 2px;
 }
 
 .boton:hover{
